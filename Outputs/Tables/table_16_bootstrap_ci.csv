@@ -1,0 +1,4 @@
+Predictor,Original b,Bootstrap mean b,Bootstrap 95% CI lower,Bootstrap 95% CI upper,CI excludes zero
+Perceived Review Quality,-0.375,-0.358,-0.761,0.043,No
+Trust in Verified Reviews,0.324,0.345,-0.124,0.981,No
+Perceived Review Influence,0.107,0.078,-0.511,0.578,No

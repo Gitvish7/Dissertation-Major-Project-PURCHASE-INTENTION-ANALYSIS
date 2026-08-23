@@ -1,0 +1,4 @@
+Predictor,Coefficient,Odds ratio,p-value
+Perceived Review Quality,-0.731,0.482,0.0668
+Trust in Verified Reviews,0.511,1.667,0.3518
+Perceived Review Influence,0.425,1.53,0.4203
