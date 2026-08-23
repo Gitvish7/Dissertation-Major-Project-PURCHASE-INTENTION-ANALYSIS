@@ -1,0 +1,30 @@
+code,questionnaire_item
+timestamp,Timestamp
+consent,Do you consent to participate in this research study?
+age,What is your age?
+gender,Gender
+employment,Employment Status ?
+country,Country of Residence
+shop_freq,How often do you shop online?
+platform,Which online shopping platform do you use most?
+monthly_spend,Approximately how much do you spend on online shopping each month?
+categories,Which product categories do you purchase online? (Select all that apply.)
+review_read_freq,How often do you read customer reviews before purchasing a product?
+reviews_read_n,Approximately how many reviews do you usually read?
+key_review_feature,Which review feature do you consider most important?
+RQ1,Please indicate your level of agreement. [Detailed reviews are more trustworthy than short reviews.]
+RQ2,Please indicate your level of agreement. [Reviews with customer sharing product  photos increase my confidence.]
+RQ3,Please indicate your level of agreement. [Reviews discussing both advantages and disadvantages seem more genuine.]
+RQ4,Please indicate your level of agreement. [Recent reviews are more useful than older reviews.]
+VPT1,"Please indicate your level of agreement with the following statements about Verified Purchase reviews. [I trust reviews marked as ""Verified Purchase.""]"
+VPT2,Please indicate your level of agreement with the following statements about Verified Purchase reviews. [I am more likely to purchase products with many verified reviews.]
+VPT3,Please indicate your level of agreement with the following statements about Verified Purchase reviews. [Reviews without a Verified Purchase badge are less trustworthy.]
+RIN1,Please indicate your level of agreement with the following statements regarding your purchase decisions. [Positive customer reviews increase my likelihood of purchasing a product.]
+RIN2,Please indicate your level of agreement with the following statements regarding your purchase decisions. [Negative reviews discourage me from purchasing a product.]
+RIN3,Please indicate your level of agreement with the following statements regarding your purchase decisions. [High star ratings influence my purchase decisions.]
+RIN4,Please indicate your level of agreement with the following statements regarding your purchase decisions. [I often purchase products after reading positive customer reviews.]
+returned_product,Have you ever returned a product because it did not match its reviews?
+bought_without_reviews,Have you ever bought a product without reading reviews?
+PI,"After reading customer reviews, how likely are you to purchase the product?"
+open_trust,What makes an online product review trustworthy?
+open_experience,Describe a purchase where customer reviews significantly influenced your decision.
