@@ -65,7 +65,3 @@ Full findings, business recommendations, and limitations are documented in Secti
 ## Limitations
 
 The analysis rests on a small, non-probability convenience sample (n = 55) concentrated among 18–34 year olds resident in India, which limits generalisability. The cross-sectional design precludes causal inference, and the dependent variable is a single self-reported item collected in the same instrument as the predictors, raising the possibility of common method variance.
-
-## License
-
-Add a license of your choice (e.g. MIT) if you intend this repository to be reused by others.
